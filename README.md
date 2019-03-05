@@ -1,2 +1,1 @@
-# Hello-world
-print("Hello World")
+ls -a1 ~/.ssh
